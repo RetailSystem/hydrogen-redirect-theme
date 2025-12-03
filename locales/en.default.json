@@ -11,7 +11,7 @@
   "shopify": {
     "checkout": {
       "shipping_errors": {
-        "title": "Please contact us to know your delivery fee",
+        "title": "Delivery Quote",
         "shipping_method_not_available_generic": {
           "one": "Please contact us at 360-491-0700 or email us at woodshedfurniture@gmail.com and we will provide you with a delivery quote."
         }
