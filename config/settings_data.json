@@ -9,8 +9,8 @@
  */
 {
   "current": {
-    "storefront_hostname": "www.flowholesale.co.uk",
-    "integrate_with_customer_accounts": true,
+    "storefront_hostname": "https://websystem---hydrogen-758902fa4b71118962f9.o2.myshopify.dev/",
+    "integrate_with_customer_accounts": false,
     "content_for_index": []
   }
 }
